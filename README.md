@@ -1,2 +1,2 @@
 # odin_recipes
-Odin Recipes
+Odin Recipes - First project on web development made by TOP.
