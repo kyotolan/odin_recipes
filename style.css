@@ -5,3 +5,8 @@ body {
 .logo {
     color: orange;
 }
+
+.recipe-heading {
+    text-align: center;
+    font-size: 32px;
+}
